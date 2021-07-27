@@ -1,0 +1,28 @@
+.position-img{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.card-img{
+    max-width: 50%;
+}
+.position-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.input-group{
+    justify-content: center;
+}
+p{
+    margin: 4px 0;
+}
+.icon-color i{
+    color: #ffc107;
+    font-size: 20px;
+}
+input[type="checkbox"]:checked {
+ 
+    border:1px solid green;
+  }

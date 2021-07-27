@@ -1,0 +1,34 @@
+.new {
+    background-color: white;
+    border: 1px dotted green;
+    height: 37px;
+    width: 39px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: green;
+    font-weight: bold;
+}
+.icon-colorr i{
+    font-size: 30px;
+    color:green;
+}
+.container-custom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6e6e6;
+    margin-top: 50px;
+}
+.choose-file{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 20px;
+    border: 1px dotted;
+    margin: 10px;
+}
